@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=semjonG)
 
-## I'm a iOS Developer 
+## I'm an iOS Developer 
   and also my hobbies: 
 - 📖 Learning new iOS development skills
 - 📸 Photography
@@ -39,3 +39,6 @@
 [linkedin]: https://www.linkedin.com/in/семён-герасимов-48b975235/
 [instagram]: https://www.instagram.com/semjon.g/
 [Telegram]: http://t.me/semjon_g/
+
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="40" align="right" alt="GitHub Mona">
+</p>
