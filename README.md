@@ -1,18 +1,17 @@
 ### Hi there 👋, I'm Semjon
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+![](https://komarev.com/ghpvc/?username=semjonG)
 
 ## I'm a iOS Developer
-- 💪 I like to write code
+- I like to make interesting and fnacy apps 
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
 - 🤹🏽 I like to shoot videos for youtube 
 
 ### Connect with me:
 
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="semjonG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="semjonG | Instagram" width="22px" src="https://img.icons8.com/office/344/instagram-new.png" />][instagram]
 
 <br />
 
