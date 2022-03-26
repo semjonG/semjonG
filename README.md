@@ -7,7 +7,7 @@
 - 📖 Learning new iOS development skills
 - 📸 Photography
 - 🏝️ Travel
-- 🏋️‍♂️ Gym
+- 🏋️ Gym
 - 🏂 Snowboarding
 
 
@@ -38,4 +38,4 @@
 
 [linkedin]: https://www.linkedin.com/in/семён-герасимов-48b975235/
 [instagram]: https://www.instagram.com/semjon.g/
-[Telegram]: http://t.me/semjon_g
+[Telegram]: http://t.me/semjon_g/
