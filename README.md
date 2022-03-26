@@ -1,8 +1,9 @@
-### Hi there 👋, I'm Semjon
+### Hi there 👋🏼, I'm Semjon
 
 ![](https://komarev.com/ghpvc/?username=semjonG)
 
-## I'm a iOS Developer and also my hobbies: 
+## I'm a iOS Developer 
+  and also my hobbies: 
 - 📖 Learning new iOS development skills
 - 📸 Photography
 - 🏝️ Travel
