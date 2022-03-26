@@ -2,28 +2,27 @@
 
 ![](https://komarev.com/ghpvc/?username=semjonG)
 
-## I'm a iOS Developer
-- I like to make interesting and fnacy apps 
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- 🤹🏽 I like to shoot videos for youtube 
+## I'm a iOS Developer and also my hobbies: 
+- 📖 Learning new iOS development skills
+- 📸 Photography
+- 🏝️ Travel
+- 🏋️‍♂️ Gym
+- 🏂 Snowboarding
+
 
 ### Connect with me:
 
-[<img align="left" alt="semjonG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="semjonG | LinkedIn" width="22px" src="https://img.icons8.com/officel/344/linkedin.png" />][linkedin]
 [<img align="left" alt="semjonG | Instagram" width="22px" src="https://img.icons8.com/office/344/instagram-new.png" />][instagram]
+[<img align="left" alt="semjonG | Telegram" width="22px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Swift" width="26px" src="https://img.icons8.com/color/344/swift.png" />
+<img align="left" alt="Xcode" width="26px" src="https://img.icons8.com/color/344/xcode.png" />
+
 
 
 <br />
@@ -38,4 +37,4 @@
 
 [linkedin]: https://www.linkedin.com/in/семён-герасимов-48b975235/
 [instagram]: https://www.instagram.com/semjon.g/
-
+[Telegram]: http://t.me/semjon_g
