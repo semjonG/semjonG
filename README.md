@@ -43,5 +43,5 @@
 [instagram]: https://www.instagram.com/semjon.g/
 [Telegram]: http://t.me/semjon_g/
 
-<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="40" align="right" alt="GitHub Mona">
+<img src="https://i.gifer.com/6c0.gif" width="40" align="right" alt="GitHub Mona">
 </p>
