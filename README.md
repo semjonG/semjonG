@@ -44,5 +44,5 @@
 [Telegram]: http://t.me/semjon_g/
 
 
-<img src="https://github.com/semjonG/semjonG/blob/main/giphy.gif?raw=true" width="60" align="right">
+<img src="https://github.com/semjonG/semjonG/blob/main/giphy.gif?raw=true" width="130" align="right">
 </p>
