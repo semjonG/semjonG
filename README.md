@@ -43,6 +43,6 @@
 [instagram]: https://www.instagram.com/semjon.g/
 [Telegram]: http://t.me/semjon_g/
 
-<iframe src="https://giphy.com/embed/3o7aD9y2CKtGHRfhOE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sunset-vaporwave-miami-3o7aD9y2CKtGHRfhOE">via GIPHY</a></p>
-<img src="https://i.gifer.com/6c0.gif" width="60" align="right">
+
+<img src="https://media0.giphy.com/media/A0Ws0HMCureM4KzrpN/giphy.gif?cid=790b761144e8f3dc8418ef457092ab27737d707afb0d326a&rid=giphy.gif&ct=g" width="60" align="right">
 </p>
