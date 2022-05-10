@@ -43,5 +43,6 @@
 [instagram]: https://www.instagram.com/semjon.g/
 [Telegram]: http://t.me/semjon_g/
 
+https://media4.giphy.com/media/3o85xthCNOHVEwBYuQ/giphy.gif?cid=ecf05e47348fkxqn1wpe9xey3lkmjw8s0o5qk9n6dh84zzzz&rid=giphy.gif&ct=g
 <img src="https://i.gifer.com/6c0.mp4" width="40" align="right" alt="GitHub Mona">
 </p>
