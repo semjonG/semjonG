@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
+[<img align="left" alt="semjonG | Telegram" width="22px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
 [<img align="left" alt="semjonG | LinkedIn" width="22px" src="https://img.icons8.com/officel/344/linkedin.png" />][linkedin]
 [<img align="left" alt="semjonG | Instagram" width="22px" src="https://img.icons8.com/office/344/instagram-new.png" />][instagram]
-[<img align="left" alt="semjonG | Telegram" width="22px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
 
 <br />
 
