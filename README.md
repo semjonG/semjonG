@@ -11,7 +11,7 @@
 - 🏂 Snowboarding
 
 ### Articles:
-- **<a href="https://habr.com/ru/sandbox/new/">Быстрый гайд по коллекциям в Swift (Array, Set, Dictionary)</a>**
+- **<a href="https://habr.com/ru/sandbox/173690/">Быстрый гайд по коллекциям в Swift (Array, Set, Dictionary)</a>**
 
 ### Connect with me:
 
