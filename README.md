@@ -3,13 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=semjonG)
 
 ## I'm an iOS Developer 
-  and also my hobbies: 
-- 📖 Learning new iOS development skills
-- 📸 Photography
-- 🏝️ Travel
-- 🏋️ Gym
-- 🏂 Snowboarding
-<br />
 
 ### My articles:
 - **<a href="https://habr.com/ru/sandbox/173690/">Быстрый гайд по коллекциям в Swift (Array, Set, Dictionary)</a>**
@@ -21,6 +14,17 @@
 [<img align="left" alt="semjonG | LinkedIn" width="22px" src="https://img.icons8.com/officel/344/linkedin.png" />][linkedin]
 [<img align="left" alt="semjonG | Instagram" width="22px" src="https://img.icons8.com/office/344/instagram-new.png" />][instagram]
 <br />
+
+
+  and also my hobbies: 
+- 📖 Learning new iOS development skills
+- 📸 Photography
+- 🏝️ Travel
+- 🏋️ Gym
+- 🏂 Snowboarding
+
+
+
 <br />
 <br />
 <details>
