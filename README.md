@@ -6,7 +6,7 @@
 
 ### My articles:
 - **<a href="https://habr.com/ru/sandbox/173690/">Быстрый гайд по коллекциям в Swift (Array, Set, Dictionary)</a>**
-<br />
+
 
 ### Connect with me:
 
