@@ -22,7 +22,7 @@
 - 🏝️ Travel
 - 🏋️ Gym
 - 🏂 Snowboarding
-- **<a href="https://www.codewars.com/users/Semjon.g">🗡️🛡️Codewars</a>**
+- **<a href="https://www.codewars.com/users/Semjon.g">⚔️ Codewars</a>**
 
 
 
