@@ -35,7 +35,7 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=semjonG&show_icons=true" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/семён-герасимов-48b975235/
+[linkedin]: https://www.linkedin.com/in/semjon-gerasimov-48b975235/
 [instagram]: https://www.instagram.com/semjon.g/
 [Telegram]: http://t.me/semjon_g/
 
