@@ -1,7 +1,5 @@
 ### Hi there 👋🏼, I'm Semjon
 
-![](https://komarev.com/ghpvc/?username=semjonG)
-
 ## I'm an iOS Developer 
 
 ### My articles:
