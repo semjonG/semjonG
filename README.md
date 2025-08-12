@@ -13,12 +13,7 @@
 <br />
 
 
-  and also my hobbies: 
-- 📖 Learning new iOS development skills
-- 📸 Photography
-- 🏝️ Travel
-- 🏋️ Gym
-- 🏂 Snowboarding
+  here I am improving my skills: 
 - **<a href="https://www.codewars.com/users/Semjon.g">⚔️ Codewars</a>**
 
 [linkedin]: https://www.linkedin.com/in/semjon-gerasimov-48b975235/
